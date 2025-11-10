@@ -29,6 +29,7 @@ nav:
     - Scientific Method Workflow: sims/scientific-method/index.md
     - Learning Graph Viewer: sims/graph-viewer/index.md
     - Projectile Motion Simulator: sims/projectile-motion/index.md
+  
   - Learning Graph:
     - Introduction: learning-graph/index.md
     - Concept List: learning-graph/concept-list.md
@@ -36,6 +37,13 @@ nav:
     - Quality Metrics: learning-graph/quality-metrics.md
     - Taxonomy Distribution: learning-graph/taxonomy-distribution.md
     - Interactive Viewer: sims/graph-viewer/index.md
+  
+  - Prompts:
+    - List of prompts: prompts/index.md
+    - prompts/01-run-course-description-analyzer-skill.md
+    - prompts/02-learning-graph-generator-skill-run.md
+    - prompts/03-run-init.md
+    - prompts/04-book-chapter-structure-skill.md
   - Checklist: checklist.md
   - Code Highlight Test: code-highlight-test.md
   - Glossary: glossary.md
