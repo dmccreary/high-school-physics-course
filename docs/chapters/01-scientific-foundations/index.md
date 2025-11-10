@@ -57,13 +57,9 @@ The scientific method typically follows these steps:
 
 Let's consider a real-world example. Suppose you notice that when you drop different objects from the same height, some seem to fall faster than others. You might hypothesize: "Heavier objects fall faster than lighter objects." To test this, you could design an experiment dropping objects of different masses from the same height and timing their fall. After collecting data, you'd analyze whether the results support your hypothesis.
 
-<details markdown="1">
-<summary>Scientific Method Flowchart</summary>
-
-<iframe src="../../sims/scientific-method/main.html" width="100%" height="900px" style="border: 2px solid #667eea; border-radius: 8px;"></iframe>
+<iframe src="../../sims/scientific-method/main.html" width="100%" height="1600px" scrolling="no"></iframe>
 
 [View detailed explanation and educational context](../../sims/scientific-method/index.md)
-</details>
 
 **Key Insight:** The scientific method is iterative, meaning we cycle through these steps multiple times. Even when results don't support our initial hypothesis, we learn valuable information that helps refine our understanding.
 
@@ -121,29 +117,35 @@ Notice the pattern: each prefix represents a specific power of ten. This makes c
 
 <details markdown="1">
 <summary>Metric Prefix Visualization MicroSim</summary>
-Type: microsim
+Type: MicroSim
+Name: metric-scale-zoom
 
 Learning objective: Help students visualize the relative scale of metric prefixes and practice conversions between different orders of magnitude
 
 Canvas layout (800x600px):
+
 - Top area (800x150): Title and instruction text
 - Middle area (800x350): Visual scale showing objects at different metric scales
 - Bottom area (800x100): Interactive conversion practice area
 
 Visual elements:
+
 - Horizontal logarithmic scale from nanometers to kilometers
 - Animated objects appearing at appropriate scale points:
+
   * Virus (nanometer scale) - ~100 nm
   * Human hair width (micrometer scale) - ~100 μm
   * Fingernail width (millimeter scale) - ~10 mm
   * Textbook height (centimeter scale) - ~25 cm
   * Person height (meter scale) - ~1.7 m
   * Football field (kilometer scale) - ~0.1 km
+
 - Each object labeled with measurement and prefix
-- Zoom functionality to focus on specific scale ranges
+- Zoom functionality with range control slider to focus on specific scale ranges
 
 Interactive controls:
-- Slider: Select a scale to explore (nano to kilo)
+
+- Horizontal Slider: Select a scale to explore (nano to kilo)
 - Button: "Show Comparison" - displays two selected objects side by side
 - Input field: "Convert this value" with dropdown for source unit
 - Input field: Target unit selection
@@ -151,11 +153,13 @@ Interactive controls:
 - Display: Running score of correct conversions
 
 Default parameters:
+
 - Starting scale: meter (10⁰)
 - Initial comparison: Comparing a meter stick to a centimeter
 - Conversion practice: Random values between 1-1000
 
 Behavior:
+
 - Slider movement smoothly zooms the scale visualization
 - Object icons grow/shrink proportionally as zoom changes
 - Hovering over objects shows detailed information (actual size, common examples)
@@ -164,6 +168,7 @@ Behavior:
 - Incorrect answers show correct answer and explanation
 
 Implementation notes:
+
 - Use p5.js for rendering and animation
 - Logarithmic scale positioning: position = log₁₀(size) * scaleFactor
 - Store object data in array with {name, size_in_meters, image, description}
@@ -505,6 +510,7 @@ Physics problems frequently involve triangles—whether analyzing forces on an i
 - **tan(θ)** = opposite / adjacent
 
 **Memory aid: SOH-CAH-TOA**
+
 - **S**ine = **O**pposite/**H**ypotenuse
 - **C**osine = **A**djacent/**H**ypotenuse
 - **T**angent = **O**pposite/**A**djacent
