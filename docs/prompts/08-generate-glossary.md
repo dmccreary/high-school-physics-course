@@ -10,4 +10,6 @@ Sonnet 4.5 · Claude Pro
 
 [Glossary of Terms](../glossary.md)
 
+[Glossary Quality Report](../learning-graph/glossary-quality-report.md)
+
 [Session Log File](https://github.com/dmccreary/intro-to-physics-course/blob/main/logs/glossary.md)
