@@ -1,9 +1,9 @@
-site_name: High School Physics Course
-site_description: 'A comprehensive year-long physics course developing students scientific literacy through systematic progression from foundational knowledge to creative application. All content licensed Creative Commons ShareAlike Attribution Noncommercial'
+site_name: Introduction to Physics
+site_description: 'A comprehensive year-long introduction to physics course developing students scientific literacy through systematic progression from foundational knowledge to creative application. All content licensed Creative Commons ShareAlike Attribution Noncommercial'
 site_author: 'Dan McCreary'
 repo_name: 'GitHub Repo'
-site_url: 'https://dmccreary.github.io/high-school-physics-course/'
-repo_url: 'https://github.com/dmccreary/high-school-physics-course'
+site_url: 'https://dmccreary.github.io/intro-to-physics-course/'
+repo_url: 'https://github.com/dmccreary/intro-to-physics-course/'
 edit_uri: 'blob/master/docs'
 
 nav:
