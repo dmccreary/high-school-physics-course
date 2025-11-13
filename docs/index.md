@@ -21,11 +21,11 @@ Status:
 
 1. Course description: done (quality score: 86)
 2. Learning Graph: done see [graph quality metrics](./learning-graph/quality-metrics.md)
-3. Book Chapter Structure: done - 12 chapters
-4. Chapter Content: All 12 chapter text body done
-5. Glossary of Terms: done - see [Glossary of Terms](./glossary.md)
-6. FAQ: TODO
-7. Quiz: TODO
+3. Book Chapter Structure: done - 200 concepts in the knowledge graph were partitioned into 12 chapters.  No concept is introduced before it's dependant concepts have been explained.
+4. Chapter Content Generation: 12 chapters of text generated with detailed specifications of diagrams, charts and MicroSims ready for generation
+5. Glossary of Terms: done - precise, concise and distinct ISO defintions were created with examples of how the term is used in the textbook. see [Glossary of Terms](./glossary.md)
+6. FAQ: Done
+7. Quiz: In progress
 8. References: TODO
 9. Diagrams and Figures: TODO
 10. Book Quality Metrics: TODO
