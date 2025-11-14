@@ -117,6 +117,10 @@ Notice the pattern: each prefix represents a specific power of ten. This makes c
 
 #### Drawing: Metric Scale Zoom
 
+<iframe src="../../sims/metric-scale-zoom/main.html" height="450px" width="100%" scrolling="no"></iframe>
+[Run the Metric Scale Zoom Fullscreen](../../sims/metric-scale-zoom/main.html)
+
+
 <details markdown="1">
 <summary>Metric Scale Zoom</summary>
 
