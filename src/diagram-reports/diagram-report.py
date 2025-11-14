@@ -349,7 +349,7 @@ class ReportGenerator:
             # Create link to chapter section with "Diagram:" prefix
             # MkDocs anchor: lowercase, spaces to hyphens, remove most punctuation except hyphens
             anchor_text = f"diagram-{element.element_title}"
-            anchor = anchor_text.lower().replace(' ', '-').replace('/', '-').replace('(', '').replace(')', '').replace(',', '').replace('.', '').replace(':', '')
+            anchor = anchor_text.lower().replace(' ', '-').replace('/', '-').replace('(', '').replace(')', '').replace(',', '').replace('.', '').replace(':', '').replace("'", '')
             # Clean up multiple consecutive hyphens
             while '--' in anchor:
                 anchor = anchor.replace('--', '-')
@@ -399,7 +399,7 @@ class ReportGenerator:
                 # Create link to chapter section
                 # MkDocs anchor: lowercase, spaces to hyphens, remove most punctuation except hyphens
                 anchor_text = f"diagram-{element.element_title}"
-                anchor = anchor_text.lower().replace(' ', '-').replace('/', '-').replace('(', '').replace(')', '').replace(',', '').replace('.', '').replace(':', '')
+                anchor = anchor_text.lower().replace(' ', '-').replace('/', '-').replace('(', '').replace(')', '').replace(',', '').replace('.', '').replace(':', '').replace("'", '')
                 # Clean up multiple consecutive hyphens
                 while '--' in anchor:
                     anchor = anchor.replace('--', '-')

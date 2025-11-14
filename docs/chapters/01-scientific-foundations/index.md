@@ -126,7 +126,8 @@ Notice the pattern: each prefix represents a specific power of ten. This makes c
 <summary>Metric Scale Zoom</summary>
 
 **Type:** MicroSim
-Name: metric-scale-zoom
+**Name:** metric-scale-zoom
+**Status:** Done
 
 Learning objective: Help students visualize the relative scale of metric prefixes and practice conversions between different orders of magnitude
 

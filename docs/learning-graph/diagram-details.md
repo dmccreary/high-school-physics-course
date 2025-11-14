@@ -15,6 +15,7 @@
 - **Difficulty:** Hard
 
 ### [Metric Scale Zoom](../chapters/01-scientific-foundations/index.md#diagram-metric-scale-zoom)
+- **Status:** Done
 - **Type:** Microsim
 - **Bloom's Taxonomy:** Not specified
 - **UI Elements:** 6
@@ -454,7 +455,7 @@
 - **UI Elements:** 7
 - **Difficulty:** Hard
 
-### [Hooke's Law Interactive Demonstration](../chapters/09-oscillations/index.md#diagram-hooke's-law-interactive-demonstration)
+### [Hooke's Law Interactive Demonstration](../chapters/09-oscillations/index.md#diagram-hookes-law-interactive-demonstration)
 - **Type:** Microsim
 - **Bloom's Taxonomy:** Not specified
 - **UI Elements:** 9
@@ -612,7 +613,7 @@
 - **UI Elements:** 12
 - **Difficulty:** Very Hard
 
-### [Snell's Law Interactive Demonstration](../chapters/11-light-optics/index.md#diagram-snell's-law-interactive-demonstration)
+### [Snell's Law Interactive Demonstration](../chapters/11-light-optics/index.md#diagram-snells-law-interactive-demonstration)
 - **Type:** Microsim
 - **Bloom's Taxonomy:** Not specified
 - **UI Elements:** 13
@@ -624,7 +625,7 @@
 - **UI Elements:** 14
 - **Difficulty:** Hard
 
-### [Young's Double Slit Interference Pattern MicroSim](../chapters/11-light-optics/index.md#diagram-young's-double-slit-interference-pattern-microsim)
+### [Young's Double Slit Interference Pattern MicroSim](../chapters/11-light-optics/index.md#diagram-youngs-double-slit-interference-pattern-microsim)
 - **Type:** Microsim
 - **Bloom's Taxonomy:** Not specified
 - **UI Elements:** 10
@@ -646,7 +647,7 @@
 - **UI Elements:** 11
 - **Difficulty:** Hard
 
-### [Coulomb's Law Force Calculator MicroSim](../chapters/12-electric-charge-fields/index.md#diagram-coulomb's-law-force-calculator-microsim)
+### [Coulomb's Law Force Calculator MicroSim](../chapters/12-electric-charge-fields/index.md#diagram-coulombs-law-force-calculator-microsim)
 - **Type:** Microsim
 - **Bloom's Taxonomy:** Not specified
 - **UI Elements:** 16

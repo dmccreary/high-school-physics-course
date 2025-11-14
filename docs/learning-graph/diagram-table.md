@@ -21,7 +21,7 @@ hide:
 | Chapter | Element Title | Status | Type | Bloom Levels | UI Elements | Difficulty |
 |---------|---------------|--------|------|--------------|-------------|------------|
 | 1 | [Interactive Graph Analysis MicroSim](../chapters/01-scientific-foundations/index.md#diagram-interactive-graph-analysis-microsim) |  | Microsim | Not specified | 21 | Hard |
-| 1 | [Metric Scale Zoom](../chapters/01-scientific-foundations/index.md#diagram-metric-scale-zoom) |  | Microsim | Not specified | 6 | Medium |
+| 1 | [Metric Scale Zoom](../chapters/01-scientific-foundations/index.md#diagram-metric-scale-zoom) | Done | Microsim | Not specified | 6 | Medium |
 | 1 | [Precision vs Accuracy Target Diagram](../chapters/01-scientific-foundations/index.md#diagram-precision-vs-accuracy-target-diagram) |  | Diagram | Not specified | 0 | Easy |
 | 1 | [Vector Addition Interactive MicroSim](../chapters/01-scientific-foundations/index.md#diagram-vector-addition-interactive-microsim) |  | Microsim | Not specified | 23 | Very Hard |
 | 1 | [Vector Basics Interactive MicroSim](../chapters/01-scientific-foundations/index.md#diagram-vector-basics-interactive-microsim) |  | Microsim | Not specified | 17 | Very Hard |
@@ -89,7 +89,7 @@ hide:
 | 9 | [Applications of Oscillations Across Fields Infographic](../chapters/09-oscillations/index.md#diagram-applications-of-oscillations-across-fields-infographic) |  | Unknown | Not specified | 0 | Medium |
 | 9 | [Driven Oscillator Interactive MicroSim](../chapters/09-oscillations/index.md#diagram-driven-oscillator-interactive-microsim) |  | Microsim | Not specified | 13 | Very Hard |
 | 9 | [Energy Transformation in SHM Bar Chart Animation](../chapters/09-oscillations/index.md#diagram-energy-transformation-in-shm-bar-chart-animation) |  | Unknown | Not specified | 7 | Hard |
-| 9 | [Hooke's Law Interactive Demonstration](../chapters/09-oscillations/index.md#diagram-hooke's-law-interactive-demonstration) |  | Microsim | Not specified | 9 | Hard |
+| 9 | [Hooke's Law Interactive Demonstration](../chapters/09-oscillations/index.md#diagram-hookes-law-interactive-demonstration) |  | Microsim | Not specified | 9 | Hard |
 | 9 | [Period, Frequency, and Angular Frequency Relationship Diagram](../chapters/09-oscillations/index.md#diagram-period-frequency-and-angular-frequency-relationship-diagram) |  | Diagram | Not specified | 1 | Medium |
 | 9 | [Position-Velocity-Acceleration Relationship in SHM MicroSim](../chapters/09-oscillations/index.md#diagram-position-velocity-acceleration-relationship-in-shm-microsim) |  | Microsim | Not specified | 7 | Very Hard |
 | 9 | [Resonance Amplitude vs. Driving Frequency Interactive Graph](../chapters/09-oscillations/index.md#diagram-resonance-amplitude-vs-driving-frequency-interactive-graph) |  | Unknown | Not specified | 5 | Medium |
@@ -114,12 +114,12 @@ hide:
 | 11 | [Law of Reflection Interactive Diagram](../chapters/11-light-optics/index.md#diagram-law-of-reflection-interactive-diagram) |  | Microsim | Not specified | 11 | Hard |
 | 11 | [Lens Ray Diagram Interactive MicroSim](../chapters/11-light-optics/index.md#diagram-lens-ray-diagram-interactive-microsim) |  | Microsim | Not specified | 14 | Hard |
 | 11 | [Polarization Filter Interactive MicroSim](../chapters/11-light-optics/index.md#diagram-polarization-filter-interactive-microsim) |  | Microsim | Not specified | 12 | Very Hard |
-| 11 | [Snell's Law Interactive Demonstration](../chapters/11-light-optics/index.md#diagram-snell's-law-interactive-demonstration) |  | Microsim | Not specified | 13 | Medium |
+| 11 | [Snell's Law Interactive Demonstration](../chapters/11-light-optics/index.md#diagram-snells-law-interactive-demonstration) |  | Microsim | Not specified | 13 | Medium |
 | 11 | [Spherical Mirror Ray Diagram Interactive MicroSim](../chapters/11-light-optics/index.md#diagram-spherical-mirror-ray-diagram-interactive-microsim) |  | Microsim | Not specified | 14 | Hard |
-| 11 | [Young's Double Slit Interference Pattern MicroSim](../chapters/11-light-optics/index.md#diagram-young's-double-slit-interference-pattern-microsim) |  | Microsim | Not specified | 10 | Very Hard |
+| 11 | [Young's Double Slit Interference Pattern MicroSim](../chapters/11-light-optics/index.md#diagram-youngs-double-slit-interference-pattern-microsim) |  | Microsim | Not specified | 10 | Very Hard |
 | 12 | [Charge Conservation in Chemical Reactions](../chapters/12-electric-charge-fields/index.md#diagram-charge-conservation-in-chemical-reactions) |  | Diagram | Not specified | 0 | Easy |
 | 12 | [Charging by Induction Animation MicroSim](../chapters/12-electric-charge-fields/index.md#diagram-charging-by-induction-animation-microsim) |  | Microsim | Not specified | 11 | Hard |
-| 12 | [Coulomb's Law Force Calculator MicroSim](../chapters/12-electric-charge-fields/index.md#diagram-coulomb's-law-force-calculator-microsim) |  | Microsim | Not specified | 16 | Very Hard |
+| 12 | [Coulomb's Law Force Calculator MicroSim](../chapters/12-electric-charge-fields/index.md#diagram-coulombs-law-force-calculator-microsim) |  | Microsim | Not specified | 16 | Very Hard |
 | 12 | [Electric Field Lines Visualization MicroSim](../chapters/12-electric-charge-fields/index.md#diagram-electric-field-lines-visualization-microsim) |  | Microsim | Not specified | 8 | Hard |
 | 12 | [Electric Potential Energy Interactive Chart](../chapters/12-electric-charge-fields/index.md#diagram-electric-potential-energy-interactive-chart) |  | Unknown | Not specified | 3 | Medium |
 | 12 | [Triboelectric Series Interactive Infographic](../chapters/12-electric-charge-fields/index.md#diagram-triboelectric-series-interactive-infographic) |  | Unknown | Not specified | 0 | Easy |
